@@ -1,0 +1,14 @@
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.AssemblyInfoInputs.cache
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.AssemblyInfo.cs
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.csproj.CoreCompileInputs.cache
+E:\CSharp\Date_4_23\Date_4_23\bin\Debug\net8.0\Date_4_23.exe
+E:\CSharp\Date_4_23\Date_4_23\bin\Debug\net8.0\Date_4_23.deps.json
+E:\CSharp\Date_4_23\Date_4_23\bin\Debug\net8.0\Date_4_23.runtimeconfig.json
+E:\CSharp\Date_4_23\Date_4_23\bin\Debug\net8.0\Date_4_23.dll
+E:\CSharp\Date_4_23\Date_4_23\bin\Debug\net8.0\Date_4_23.pdb
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.dll
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\refint\Date_4_23.dll
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.pdb
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\Date_4_23.genruntimeconfig.cache
+E:\CSharp\Date_4_23\Date_4_23\obj\Debug\net8.0\ref\Date_4_23.dll
